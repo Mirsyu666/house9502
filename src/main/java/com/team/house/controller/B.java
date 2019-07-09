@@ -8,4 +8,6 @@ package com.team.house.controller;
  * @Created by Administrator
  */
 public class B {
+    public String temp;
+
 }
