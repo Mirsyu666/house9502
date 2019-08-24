@@ -11,7 +11,7 @@ import com.sun.org.apache.xml.internal.res.XMLErrorResources_tr;
  */
 public class B {
     public static void main(String[] args) {
-        System.out.println("蔡徐坤");
+        System.out.println("蔡徐坤打篮球");
     }
 
 }
