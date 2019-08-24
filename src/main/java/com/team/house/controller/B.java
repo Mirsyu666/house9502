@@ -1,5 +1,7 @@
 package com.team.house.controller;
 
+import com.sun.org.apache.xml.internal.res.XMLErrorResources_tr;
+
 /**
  * @author 王建兵
  * @Classname B
@@ -8,6 +10,8 @@ package com.team.house.controller;
  * @Created by Administrator
  */
 public class B {
-    public String temp;
+    public static void main(String[] args) {
+        System.out.println("蔡徐坤");
+    }
 
 }
